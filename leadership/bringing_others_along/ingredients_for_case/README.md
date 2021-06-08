@@ -252,7 +252,7 @@ There’s a [video version](https://www.youtube.com/watch?v=p0x5p08eJmA) too. An
 
 [Source](https://karlgroves.com/2011/10/07/accessibility-and-reduced-design-development-production-maintenance-costs)
 
-### GROVES How Expensive is Web Accessibility? – Karl Groves (2011)
+### How Expensive is Web Accessibility? – Karl Groves (2011)
 
 [Source](http://www.karlgroves.com/2011/11/30/how-expensive-is-accessibility/)
 
