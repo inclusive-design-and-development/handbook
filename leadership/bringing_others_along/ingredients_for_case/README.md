@@ -1,8 +1,3 @@
-LAM talk?
-
-Little book
-
-
 # Ingredients for case
 
 1. About the need for accessibility
