@@ -229,6 +229,10 @@ There’s a [video version](https://www.youtube.com/watch?v=p0x5p08eJmA) too. An
 
 [Source](https://www.youtube.com/watch?v=LVXK2EAVkb4)
 
+### Which accessibility settings do the Dutch really use on their phone? – Q42
+
+[Source](https://accessibility.q42.nl/)
+
 ---
 
 ## 2. About the cost of accessibility
