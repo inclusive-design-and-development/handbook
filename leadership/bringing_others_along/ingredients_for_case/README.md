@@ -1,7 +1,7 @@
 # Ingredients for case
 
 1. About the need for accessibility
-2. About the benefits of accessibility
+2. About the cost of accessibility
 
 ---
 
