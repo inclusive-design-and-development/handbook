@@ -7,6 +7,14 @@
 
 ## 1. About the need for accessibility
 
+### Math is hard. People with disabilities matter – by Sarah Horton
+
+[Source](https://sarahhortondesign.com/2020/12/23/math-is-hard-people-with-disabilities-matter/)
+
+### Reframing Accessibility for the Web - by Anne Gibson
+
+[Source](https://alistapart.com/article/reframing-accessibility-for-the-web/)
+
 ### From AbilityNet
 
 - It’s the law – enshrined in the Disability Equality Act (2010).  If your website does not meet certain design standards, then you could be sued for discrimination.
@@ -42,7 +50,15 @@ Source: Global Disability statistics (WHO, World Report on Disability 2011)
 
 The [Global Economics of Disability Annual Report 2016](http://www.rod-group.com/sites/default/files/2016%20Annual%20Report%20-%20The%20Global%20Economics%20of%20Disability.pdf) estimated the global population of people with disabilities (PWD)) as 1.3 billion: a market equivalent in size to the population of China.
 
-<img src="./assets/PWD demographics across the world inc income and friends and family.webp" alt>
+ ... | Global | USA | Canada | EU | Asia 
+ --- | --- | --- | --- | --- | --- 
+ PWD Population | 1.31B | 57mm | 6.2mm | 91.0mm | 748mm 
+ PWD Income | >$1.97T | $873B | $113B | $984B | NA 
+ PWD Disposable income | >$1.2T | $645B | $55B | $482B | NA 
+ Friends & Family Population | 2.4B | 105mm | 12mm | 168mm | 1.38B 
+ Friends & Family Disposable income | >7T | $4T | $311B | $2.7T | NA 
+
+Source: US Census, US Bureau of Labor Statistics, StatsCan, EuroStat, Return on Disability Group
 
 Population and income data for people with disabilities and their friends and family, courtesy of Return on Disability.
 
@@ -232,6 +248,10 @@ There’s a [video version](https://www.youtube.com/watch?v=p0x5p08eJmA) too. An
 ### Which accessibility settings do the Dutch really use on their phone? – Q42
 
 [Source](https://accessibility.q42.nl/)
+
+### What you need to understand about accessibility – by JF Hector-Labram
+
+[Source](https://youtu.be/fmdIdmicSB4)
 
 ---
 
