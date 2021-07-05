@@ -259,7 +259,15 @@ There’s a [video version](https://www.youtube.com/watch?v=p0x5p08eJmA) too. An
 
 ## 2. About the cost of accessibility
 
-### Cost of making things accessible late
+### Examples from a 2002 NIST survey, which are often mentioned in other articles
+
+[The Economic Impacts of Inadequate Infrastructure for Software Testing, NIST 2002](https://www.nist.gov/system/files/documents/director/planning/report02-3.pdf)
+
+See examples in section 5.1.1. Developers’ Costs of Identifying and Correcting Errors
+
+#### Cost of making things accessible late (Deque)
+
+The examples from the 2002 paper by NIST are mentioned in this article and training session by Deque:
 
 <figure>
   <img src="./assets/cost_of_waiting_Deque.png" alt>
@@ -267,6 +275,22 @@ There’s a [video version](https://www.youtube.com/watch?v=p0x5p08eJmA) too. An
     Compared to catching a defect in development, catching it in Build is 3x higher, catching it in QA is 12 higher, catching it in maintenance is 95x higher.
   </figcaption>
 </figure>
+
+> There are many studies that show the changes in the cost of fixing defects at different stages of the development process. Based on the cost of fixing a defect at the design stage as having a factor of 1x, these [studies show cost differences](ftp://ftp.software.ibm.com/software/rational/info/do-more/RAW14109USEN.pdf) that increase to 6x during implementation, 15x during testing after code commit, and as high as 100x if caught after the defect makes it into production. [Research by the NIST](https://deepsource.io/blog/exponential-cost-of-fixing-bugs/) estimates the defects fixing costs being as 10x during integration testing and 15x during system testing but only 30x in production.[^2] Regardless of what your organization’s actual costs are, one thing is certain: catching defects in the design and development phase is orders-of-magnitude less expensive than later in the process.
+
+[Source](https://www.smashingmagazine.com/2020/07/design-wireframes-accessible-html-css/#shifting-left)
+
+#### The exponentional cost of fixing bugs – Deepsource
+
+The examples from the 2002 paper by NIST are mentioned in this article and training session by Deepsource:
+
+[Deepsource](https://deepsource.io/blog/exponential-cost-of-fixing-bugs/)
+
+#### Minimizing code defects to improve software quality and lower development costs, IBM 2008
+
+The examples from the 2002 paper by NIST are mentioned in this 2008 marketing prospectus by IBM:
+
+[Source](ftp://ftp.software.ibm.com/software/rational/info/do-more/RAW14109USEN.pdf)
 
 ### Website Accessibility and Reduced Design, Development, Production, Maintenance Costs – Karl Groves (2011)
 
