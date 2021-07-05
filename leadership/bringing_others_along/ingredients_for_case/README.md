@@ -84,6 +84,10 @@ An estimated 19% of working-age adults, and 22% of all people in the UK have a d
 
 [Source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874507/family-resources-survey-2018-19.pdf)
 
+### Family Resources Survey 2019/20 – UK DwP
+
+[Source](https://www.gov.uk/government/statistics/family-resources-survey-financial-year-2019-to-2020/family-resources-survey-financial-year-2019-to-2020#disability-1)
+
 ### Disability facts and figures – gov.uk
 
 [Source](https://www.gov.uk/government/statistics/disability-facts-and-figures)
@@ -91,8 +95,6 @@ An estimated 19% of working-age adults, and 22% of all people in the UK have a d
 It's also worth bearing in mind that these figures likely won't include many conditions like dyslexia and dyspraxia.
 
 ### Disability facts and figures – Scope
-
-[Source](### Disability facts and figures – gov.uk
 
 [Source](https://www.scope.org.uk/media/disability-facts-figures/)
 
